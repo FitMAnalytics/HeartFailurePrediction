@@ -1,4 +1,4 @@
-# Heart Failure Prediction using Machine Learning
+# Heart Failure Prediction using Ensemble Learning
 
 This project aims to predict heart failure outcomes using ensemble learning techniques, including Decision Tree, Random Forest, and XGBoost. The goal is to predict whether a patient will experience heart failure based on various medical features.
 
